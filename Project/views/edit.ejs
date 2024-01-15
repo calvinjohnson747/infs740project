@@ -1,0 +1,15 @@
+<%- include('layout/header2') %>
+
+<div class="card-body p-4">
+    <form action="/update/<%=id%>" method="POST">
+        <h3 class="text-light">Edit User </h3>
+            <label for="Doctor ID">Doctor ID</label>
+            <input type="text" id="doctorid" name="doctorid" class="form-control form-control-lg" required/> 
+            <label for="New Date">New Date</label>
+            <input type="date" id="new_date" name="new_date" class="form-control form-control-lg" required/> 
+            <input type="submit" name="submit" value="Edit Appointment" class="btn btn-success btn-lg"/> 
+    </form>
+
+</div>
+
+<%- include('layout/footer2') %>

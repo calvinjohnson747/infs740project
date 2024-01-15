@@ -1,0 +1,16 @@
+<%- include('layout/header') %>
+
+<div class="container">
+    <div class="row">
+        <h2>Doctor Login</h2>
+        <form action="/doctor" method="POST">
+          <label for="username">Username:</label>
+          <input type="text" id="username" name="username" class="form-control form-control-lg" required>
+          <label for="password">Password:</label>
+          <input type="password" id="password" name="password" class="form-control form-control-lg" required>
+          <input type="submit" name="submit" value="Login" class="btn btn-primary btn-lg"/>
+          <a href="/dregister" class="btn btn-lg btn-primary">Register</a>
+        </form>
+      </div>
+</div>
+<%- include('layout/footer') %>

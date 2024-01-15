@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Doctor Login - Hospital Management System</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <nav>
+    <div class="logo">
+      <h2>Hospital Management System</h2>
+    </div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="doctor.html">Doctor Login</a></li>
+      <li><a href="Patient.html">Patient Login</a></li>
+      <li class="dropdown"><a href="about.html">About</a></li>
+    </ul>
+  </nav>
+
+  <div class="login-container">
+    <h2>Doctor Login</h2>
+    <form action="/doctor" method="POST">
+      <label for="username">Username:</label>
+      <input type="text" id="username" name="username" required>
+      <label for="password">Password:</label>
+      <input type="password" id="password" name="password" required>
+      <button type="submit" name="submit">Login</button>
+    </form>
+  </div>
+</body>
+</html>
+

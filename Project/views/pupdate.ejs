@@ -1,0 +1,22 @@
+<%- include('layout/header4') %>
+
+<div class="card-body p-4">
+    <form action="/pupdate" method="POST">
+            <label for="Patient ID">Patient ID</label>
+            <input type="text" id="patientid" name="patientid" class="form-control form-control-lg" required/>
+            <label for="age">Age</label>
+            <input type="number" id="age" name="age" class="form-control form-control-lg" required/> 
+            <label for="Gender">Gender</label>
+            <input type="number" id="gender" name="gender" class="form-control form-control-lg" required/> 
+            <label for="diabetes">diabetes</label>
+            <input type="number" id="diabetes" name="diabetes" class="form-control form-control-lg" required/> 
+            <label for="copd">copd</label>  
+            <input type="number" id="copd" name="copd" class="form-control form-control-lg" required/>
+            <label for="copd">asthma</label>  
+            <input type="number" id="asthma" name="asthma" class="form-control form-control-lg" required/>
+            <input type="submit" name="submit" value="Update Patient" class="btn btn-primary btn-lg"/> 
+    </form>
+
+</div>
+
+<%- include('layout/footer2') %>

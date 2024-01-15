@@ -1,0 +1,37 @@
+<%- include('layout/header') %>
+
+<div class="container">
+    <div class="row my-4">
+        <div class="col-lg-12">
+            <div class="table-responsive">
+                <% if (complex2 != ''){ %>
+                    <table class="table table-striped text-center">
+                        <thead>
+                            <tr class="table-info">
+                                <th>Doctor ID</th>
+                                <th>Specilization</th>
+                                <th>Patient_ID</th>
+                                <th>Fees</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <% complex2.forEach((row, index)=>{ %>
+                                <tr>
+                                    <td><%= row.Doctor_ID%> </td>
+                                    <td><%= row.complex1.Specialization%> </td>
+                                    <td><%= row.complex2.Patient_ID%> </td>
+                                    <td><%= row.complex1.Fees%> </td>
+                                </tr>
+                           <% }) %>
+                        </tbody>
+                    </table>
+                <% } else { %>
+                    <h1 class="text-center text-secondary mt-5">No appointments found </h1>
+                <% } %>
+            </div>
+        </div>
+    </div>
+</div>
+<img src="/images/Visualization.png">
+
+<%- include('layout/footer') %>

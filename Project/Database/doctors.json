@@ -1,0 +1,434 @@
+[{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a24a"
+  },
+  "Doctor_ID": "1676137337-730",
+  "Password": "1676137337-730",
+  "Specialization": "Dermatologist",
+  "Phone Number": "2568453150",
+  "Fees": "200 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a24b"
+  },
+  "Doctor_ID": "1676137340-731",
+  "Password": "1676137340-731",
+  "Specialization": "Orthopedist",
+  "Phone Number": "2563572111",
+  "Fees": "250 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a24c"
+  },
+  "Doctor_ID": "1676137343-732",
+  "Password": "1676137343-732",
+  "Specialization": "Gynecologist",
+  "Phone Number": "3346243024",
+  "Fees": "150 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a24d"
+  },
+  "Doctor_ID": "1676137345-733",
+  "Password": "1676137345-733",
+  "Specialization": "Dermatologist",
+  "Phone Number": "2568823100",
+  "Fees": "200 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a24f"
+  },
+  "Doctor_ID": "1676137354-735",
+  "Password": "1676137354-735",
+  "Specialization": "Pediatrician",
+  "Phone Number": "9075436300",
+  "Fees": "450 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a250"
+  },
+  "Doctor_ID": "1676137357-736",
+  "Password": "1676137357-736",
+  "Specialization": "Cardiologist",
+  "Phone Number": "9074433311",
+  "Fees": "450 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a251"
+  },
+  "Doctor_ID": "1676137360-737",
+  "Password": "1676137360-737",
+  "Specialization": "Gynecologist",
+  "Phone Number": "9078425201",
+  "Fees": "350 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a252"
+  },
+  "Doctor_ID": "1676137363-738",
+  "Password": "1676137363-738",
+  "Specialization": "Pediatrician",
+  "Phone Number": "9074423321",
+  "Fees": "400 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a253"
+  },
+  "Doctor_ID": "1676137367-739",
+  "Password": "1676137367-739",
+  "Specialization": "General Surgeon",
+  "Phone Number": "9287298000",
+  "Fees": "500 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a254"
+  },
+  "Doctor_ID": "1676137370-740",
+  "Password": "1676137370-740",
+  "Specialization": "Urologist",
+  "Phone Number": "9282832501",
+  "Fees": "400 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a255"
+  },
+  "Doctor_ID": "1676137381-741",
+  "Password": "1676137381-741",
+  "Specialization": "Neurosurgeon",
+  "Phone Number": "5203627003",
+  "Fees": "500 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a256"
+  },
+  "Doctor_ID": "1676137391-742",
+  "Password": "1676137391-742",
+  "Specialization": "Gynecologist",
+  "Phone Number": "9284751200",
+  "Fees": "200 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a257"
+  },
+  "Doctor_ID": "1676137400-743",
+  "Password": "1676137400-743",
+  "Specialization": "General Surgeon",
+  "Phone Number": "9286747001",
+  "Fees": "200 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a258"
+  },
+  "Doctor_ID": "1676137407-744",
+  "Password": "1676137407-744",
+  "Specialization": "Gynecologist",
+  "Phone Number": "9287376000",
+  "Fees": "500 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a259"
+  },
+  "Doctor_ID": "1676137412-745",
+  "Password": "1676137412-745",
+  "Specialization": "Urologist",
+  "Phone Number": "5205623321",
+  "Fees": "450 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a25a"
+  },
+  "Doctor_ID": "1676137415-746",
+  "Password": "1676137415-746",
+  "Specialization": "Nephrologist",
+  "Phone Number": "9287554541",
+  "Fees": "350 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a25b"
+  },
+  "Doctor_ID": "1676137417-747",
+  "Password": "1676137417-747",
+  "Specialization": "Neurologist",
+  "Phone Number": "5015523000",
+  "Fees": "450 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a25c"
+  },
+  "Doctor_ID": "1676137425-748",
+  "Password": "1676137425-748",
+  "Specialization": "Pediatrician",
+  "Phone Number": "4794743401",
+  "Fees": "350 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a25d"
+  },
+  "Doctor_ID": "1676137428-749",
+  "Password": "1676137428-749",
+  "Specialization": "Physiotherapist",
+  "Phone Number": "8708361000",
+  "Fees": "150 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a25e"
+  },
+  "Doctor_ID": "1676137434-750",
+  "Password": "1676137434-750",
+  "Specialization": "ENT Doctor",
+  "Phone Number": "5015852000",
+  "Fees": "170 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a25f"
+  },
+  "Doctor_ID": "1676137436-751",
+  "Password": "1676137436-751",
+  "Specialization": "Ophthalmologist",
+  "Phone Number": "5019772300",
+  "Fees": "200 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a260"
+  },
+  "Doctor_ID": "1676137441-752",
+  "Password": "1676137441-752",
+  "Specialization": "Nephrologist",
+  "Phone Number": "8702655351",
+  "Fees": "400 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a261"
+  },
+  "Doctor_ID": "1676137444-753",
+  "Password": "1676137444-753",
+  "Specialization": "Internist",
+  "Phone Number": "9518451121",
+  "Fees": "210 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a262"
+  },
+  "Doctor_ID": "1676137447-754",
+  "Password": "1676137447-754",
+  "Specialization": "ENT Doctor",
+  "Phone Number": "3232685000",
+  "Fees": "300 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a263"
+  },
+  "Doctor_ID": "1676137452-755",
+  "Password": "1676137452-755",
+  "Specialization": "General Surgeon",
+  "Phone Number": "3237834011",
+  "Fees": "300 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a264"
+  },
+  "Doctor_ID": "1676137456-756",
+  "Password": "1676137456-756",
+  "Specialization": "Internist",
+  "Phone Number": "8316245311",
+  "Fees": "220 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a265"
+  },
+  "Doctor_ID": "1676137459-757",
+  "Password": "1676137459-757",
+  "Specialization": "Cardiothoracic Surgeon",
+  "Phone Number": "9497644624",
+  "Fees": "500 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a266"
+  },
+  "Doctor_ID": "1676137462-758",
+  "Password": "1676137462-758",
+  "Specialization": "Cardiologist",
+  "Phone Number": "5302256102",
+  "Fees": "200 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a267"
+  },
+  "Doctor_ID": "1676137465-759",
+  "Password": "1676137465-759",
+  "Specialization": "Internist",
+  "Phone Number": "9167811000",
+  "Fees": "250 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a268"
+  },
+  "Doctor_ID": "1676134721-420",
+  "Password": "1676134721-420",
+  "Specialization": "Physiotherapist",
+  "Phone Number": "5105371234",
+  "Fees": "65 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a269"
+  },
+  "Doctor_ID": "1676134724-421",
+  "Password": "1676134724-421",
+  "Specialization": "Dermatologist",
+  "Phone Number": "7079386000",
+  "Fees": "200 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a26a"
+  },
+  "Doctor_ID": "1676134727-422",
+  "Password": "1676134727-422",
+  "Specialization": "Orthopedist",
+  "Phone Number": "9493641400",
+  "Fees": "250 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a26b"
+  },
+  "Doctor_ID": "1676134730-423",
+  "Password": "1676134730-423",
+  "Specialization": "Gynecologist",
+  "Phone Number": "9516798888",
+  "Fees": "150 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a26c"
+  },
+  "Doctor_ID": "1676134733-424",
+  "Password": "1676134733-424",
+  "Specialization": "Dermatologist",
+  "Phone Number": "5624017022",
+  "Fees": "200 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a26d"
+  },
+  "Doctor_ID": "1676134741-425",
+  "Password": "1676134741-425",
+  "Specialization": "ENT Doctor",
+  "Phone Number": "7074563031",
+  "Fees": "280 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a26e"
+  },
+  "Doctor_ID": "1676134744-426",
+  "Password": "1676134744-426",
+  "Specialization": "ENT Doctor",
+  "Phone Number": "7079946486",
+  "Fees": "200 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a26f"
+  },
+  "Doctor_ID": "1676134748-427",
+  "Password": "1676134748-427",
+  "Specialization": "Cardiologist",
+  "Phone Number": "3236692164",
+  "Fees": "400 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a270"
+  },
+  "Doctor_ID": "1676134751-428",
+  "Password": "1676134751-428",
+  "Specialization": "Psychiatrist",
+  "Phone Number": "9493652408",
+  "Fees": "400 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a271"
+  },
+  "Doctor_ID": "1676134756-429",
+  "Password": "1676134756-429",
+  "Specialization": "Dentist",
+  "Phone Number": "9708785047",
+  "Fees": "250 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a272"
+  },
+  "Doctor_ID": "1676134759-430",
+  "Password": "1676134759-430",
+  "Specialization": "Ophthalmologist",
+  "Phone Number": "7196879999",
+  "Fees": "150 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a273"
+  },
+  "Doctor_ID": "1676134766-431",
+  "Password": "1676134766-431",
+  "Specialization": "Endocrinologist",
+  "Phone Number": "2032761000",
+  "Fees": "400 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a274"
+  },
+  "Doctor_ID": "1676134769-432",
+  "Password": "1676134769-432",
+  "Specialization": "Rheumatologist",
+  "Phone Number": "8605853000",
+  "Fees": "300 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a275"
+  },
+  "Doctor_ID": "1676134772-433",
+  "Password": "1676134772-433",
+  "Specialization": "Orthopedist",
+  "Phone Number": "3024214100",
+  "Fees": "200 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a276"
+  },
+  "Doctor_ID": "1676134786-434",
+  "Password": "1676134786-434",
+  "Specialization": "Physiotherapist",
+  "Phone Number": "8506784131",
+  "Fees": "150 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a277"
+  },
+  "Doctor_ID": "1676134793-435",
+  "Password": "1676134793-435",
+  "Specialization": "Physiotherapist",
+  "Phone Number": "8634224971",
+  "Fees": "250 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a278"
+  },
+  "Doctor_ID": "1676134798-436",
+  "Password": "1676134798-436",
+  "Specialization": "Ophthalmologist",
+  "Phone Number": "3054458461",
+  "Fees": "130 EGP"
+},{
+  "_id": {
+    "$oid": "6450a9f0856ca01201c4a279"
+  },
+  "Doctor_ID": "1676134801-437",
+  "Password": "1676134801-437",
+  "Specialization": "Gynecologist",
+  "Phone Number": "3523334100",
+  "Fees": "80 EGP"
+},{
+  "_id": {
+    "$oid": "6454366874e615e33ccd05e8"
+  },
+  "Doctor_ID": "1676137334-999",
+  "Password": "1676137334-999",
+  "Specialization": "Physiotherapist",
+  "Phone_number": "5715164414",
+  "Fees": "258 EGP",
+  "__v": 0
+}]

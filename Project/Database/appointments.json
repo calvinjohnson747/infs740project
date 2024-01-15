@@ -1,0 +1,1021 @@
+[{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2e7"
+  },
+  "Appointment_ID": "5642503",
+  "Patient_ID": "P102",
+  "Doctor_ID": "1676137462-758",
+  "ScheduledDay": {
+    "$date": "2016-04-29T16:08:27.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2ea"
+  },
+  "Appointment_ID": "5642494",
+  "Patient_ID": "P105",
+  "Doctor_ID": "1676134801-437",
+  "ScheduledDay": {
+    "$date": "2016-04-29T16:07:23.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2eb"
+  },
+  "Appointment_ID": "5626772",
+  "Patient_ID": "P106",
+  "Doctor_ID": "1676137452-755",
+  "ScheduledDay": {
+    "$date": "2016-04-27T08:36:51.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2ec"
+  },
+  "Appointment_ID": "5630279",
+  "Patient_ID": "P107",
+  "Doctor_ID": "1676134733-424",
+  "ScheduledDay": {
+    "$date": "2016-04-27T15:05:12.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2ed"
+  },
+  "Appointment_ID": "5630575",
+  "Patient_ID": "P108",
+  "Doctor_ID": "1676134786-434",
+  "ScheduledDay": {
+    "$date": "2016-04-27T15:39:58.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2ee"
+  },
+  "Appointment_ID": "5638447",
+  "Patient_ID": "P109",
+  "Doctor_ID": "1676137459-757",
+  "ScheduledDay": {
+    "$date": "2016-04-29T08:02:16.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2ef"
+  },
+  "Appointment_ID": "5629123",
+  "Patient_ID": "P11",
+  "Doctor_ID": "1676137415-746",
+  "ScheduledDay": {
+    "$date": "2016-04-27T12:48:25.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2f1"
+  },
+  "Appointment_ID": "5620163",
+  "Patient_ID": "P111",
+  "Doctor_ID": "1676137412-745",
+  "ScheduledDay": {
+    "$date": "2016-04-26T08:44:12.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2f2"
+  },
+  "Appointment_ID": "5634718",
+  "Patient_ID": "P112",
+  "Doctor_ID": "1676134759-430",
+  "ScheduledDay": {
+    "$date": "2016-04-28T11:33:51.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2f3"
+  },
+  "Appointment_ID": "5636249",
+  "Patient_ID": "P113",
+  "Doctor_ID": "1676134730-423",
+  "ScheduledDay": {
+    "$date": "2016-04-28T14:52:07.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2f4"
+  },
+  "Appointment_ID": "5633951",
+  "Patient_ID": "P114",
+  "Doctor_ID": "1676137436-751",
+  "ScheduledDay": {
+    "$date": "2016-04-28T10:06:24.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2f5"
+  },
+  "Appointment_ID": "5620206",
+  "Patient_ID": "P115",
+  "Doctor_ID": "1676137340-731",
+  "ScheduledDay": {
+    "$date": "2016-04-26T08:47:27.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2f6"
+  },
+  "Appointment_ID": "5633121",
+  "Patient_ID": "P116",
+  "Doctor_ID": "1676137351-734",
+  "ScheduledDay": {
+    "$date": "2016-04-28T08:51:47.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2f7"
+  },
+  "Appointment_ID": "5633460",
+  "Patient_ID": "P117",
+  "Doctor_ID": "1676134786-434",
+  "ScheduledDay": {
+    "$date": "2016-04-28T09:28:57.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2f8"
+  },
+  "Appointment_ID": "5621836",
+  "Patient_ID": "P118",
+  "Doctor_ID": "1676137407-744",
+  "ScheduledDay": {
+    "$date": "2016-04-26T10:54:18.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2f9"
+  },
+  "Appointment_ID": "5640433",
+  "Patient_ID": "P119",
+  "Doctor_ID": "1676137391-742",
+  "ScheduledDay": {
+    "$date": "2016-04-29T10:43:14.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2fa"
+  },
+  "Appointment_ID": "5626083",
+  "Patient_ID": "P12",
+  "Doctor_ID": "1676134769-432",
+  "ScheduledDay": {
+    "$date": "2016-04-27T07:51:14.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2fb"
+  },
+  "Appointment_ID": "5628338",
+  "Patient_ID": "P120",
+  "Doctor_ID": "1676137360-737",
+  "ScheduledDay": {
+    "$date": "2016-04-27T10:50:45.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2fc"
+  },
+  "Appointment_ID": "5616091",
+  "Patient_ID": "P121",
+  "Doctor_ID": "1676134741-425",
+  "ScheduledDay": {
+    "$date": "2016-04-25T13:29:16.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2fd"
+  },
+  "Appointment_ID": "5634142",
+  "Patient_ID": "P122",
+  "Doctor_ID": "1676134793-435",
+  "ScheduledDay": {
+    "$date": "2016-04-28T10:27:05.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2fe"
+  },
+  "Appointment_ID": "5641780",
+  "Patient_ID": "P123",
+  "Doctor_ID": "1676134769-432",
+  "ScheduledDay": {
+    "$date": "2016-04-29T14:19:19.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a2ff"
+  },
+  "Appointment_ID": "5624020",
+  "Patient_ID": "P124",
+  "Doctor_ID": "1676137357-736",
+  "ScheduledDay": {
+    "$date": "2016-04-26T15:04:17.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a300"
+  },
+  "Appointment_ID": "5641781",
+  "Patient_ID": "P125",
+  "Doctor_ID": "1676137334-729",
+  "ScheduledDay": {
+    "$date": "2016-04-29T14:19:42.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a301"
+  },
+  "Appointment_ID": "5628345",
+  "Patient_ID": "P126",
+  "Doctor_ID": "1676137337-730",
+  "ScheduledDay": {
+    "$date": "2016-04-27T10:51:45.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a302"
+  },
+  "Appointment_ID": "5642400",
+  "Patient_ID": "P127",
+  "Doctor_ID": "1676137345-733",
+  "ScheduledDay": {
+    "$date": "2016-04-29T15:48:02.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a303"
+  },
+  "Appointment_ID": "5642186",
+  "Patient_ID": "P128",
+  "Doctor_ID": "1676137345-733",
+  "ScheduledDay": {
+    "$date": "2016-04-29T15:16:29.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a304"
+  },
+  "Appointment_ID": "5628068",
+  "Patient_ID": "P129",
+  "Doctor_ID": "1676134756-429",
+  "ScheduledDay": {
+    "$date": "2016-04-27T10:24:52.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a305"
+  },
+  "Appointment_ID": "5628907",
+  "Patient_ID": "P13",
+  "Doctor_ID": "1676137417-747",
+  "ScheduledDay": {
+    "$date": "2016-04-27T12:07:14.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a306"
+  },
+  "Appointment_ID": "5637908",
+  "Patient_ID": "P130",
+  "Doctor_ID": "1676134724-421",
+  "ScheduledDay": {
+    "$date": "2016-04-29T07:30:27.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a307"
+  },
+  "Appointment_ID": "5616921",
+  "Patient_ID": "P131",
+  "Doctor_ID": "1676134721-420",
+  "ScheduledDay": {
+    "$date": "2016-04-25T15:01:04.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a308"
+  },
+  "Appointment_ID": "5637963",
+  "Patient_ID": "P132",
+  "Doctor_ID": "1676137400-743",
+  "ScheduledDay": {
+    "$date": "2016-04-29T07:34:30.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a309"
+  },
+  "Appointment_ID": "5637968",
+  "Patient_ID": "P133",
+  "Doctor_ID": "1676137340-731",
+  "ScheduledDay": {
+    "$date": "2016-04-29T07:34:42.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a30a"
+  },
+  "Appointment_ID": "5637975",
+  "Patient_ID": "P134",
+  "Doctor_ID": "1676134798-436",
+  "ScheduledDay": {
+    "$date": "2016-04-29T07:35:19.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a30b"
+  },
+  "Appointment_ID": "5637986",
+  "Patient_ID": "P135",
+  "Doctor_ID": "1676137441-752",
+  "ScheduledDay": {
+    "$date": "2016-04-29T07:35:56.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a30c"
+  },
+  "Appointment_ID": "5609446",
+  "Patient_ID": "P136",
+  "Doctor_ID": "1676137354-735",
+  "ScheduledDay": {
+    "$date": "2016-04-20T15:54:18.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a30d"
+  },
+  "Appointment_ID": "5639644",
+  "Patient_ID": "P137",
+  "Doctor_ID": "1676137444-753",
+  "ScheduledDay": {
+    "$date": "2016-04-29T09:21:13.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a30e"
+  },
+  "Appointment_ID": "5635881",
+  "Patient_ID": "P138",
+  "Doctor_ID": "1676137456-756",
+  "ScheduledDay": {
+    "$date": "2016-04-28T14:14:16.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a30f"
+  },
+  "Appointment_ID": "5633339",
+  "Patient_ID": "P139",
+  "Doctor_ID": "1676137447-754",
+  "ScheduledDay": {
+    "$date": "2016-04-28T09:20:36.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a310"
+  },
+  "Appointment_ID": "5632906",
+  "Patient_ID": "P14",
+  "Doctor_ID": "1676134766-431",
+  "ScheduledDay": {
+    "$date": "2016-04-28T08:34:54.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a311"
+  },
+  "Appointment_ID": "5641620",
+  "Patient_ID": "P140",
+  "Doctor_ID": "1676137465-759",
+  "ScheduledDay": {
+    "$date": "2016-04-29T14:02:16.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a312"
+  },
+  "Appointment_ID": "5635414",
+  "Patient_ID": "P141",
+  "Doctor_ID": "1676137337-730",
+  "ScheduledDay": {
+    "$date": "2016-04-28T13:27:27.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a313"
+  },
+  "Appointment_ID": "5635842",
+  "Patient_ID": "P142",
+  "Doctor_ID": "1676134724-421",
+  "ScheduledDay": {
+    "$date": "2016-04-28T14:11:24.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a314"
+  },
+  "Appointment_ID": "5615608",
+  "Patient_ID": "P143",
+  "Doctor_ID": "1676137367-739",
+  "ScheduledDay": {
+    "$date": "2016-04-25T12:44:36.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a315"
+  },
+  "Appointment_ID": "5633116",
+  "Patient_ID": "P144",
+  "Doctor_ID": "1676137343-732",
+  "ScheduledDay": {
+    "$date": "2016-04-28T08:51:26.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a316"
+  },
+  "Appointment_ID": "5618643",
+  "Patient_ID": "P145",
+  "Doctor_ID": "1676134798-436",
+  "ScheduledDay": {
+    "$date": "2016-04-26T07:19:49.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a317"
+  },
+  "Appointment_ID": "5534656",
+  "Patient_ID": "P146",
+  "Doctor_ID": "1676134744-426",
+  "ScheduledDay": {
+    "$date": "2016-03-31T17:11:17.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a318"
+  },
+  "Appointment_ID": "5534661",
+  "Patient_ID": "P147",
+  "Doctor_ID": "1676137343-732",
+  "ScheduledDay": {
+    "$date": "2016-03-31T17:12:45.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a319"
+  },
+  "Appointment_ID": "5534635",
+  "Patient_ID": "P148",
+  "Doctor_ID": "1676137434-750",
+  "ScheduledDay": {
+    "$date": "2016-03-31T17:05:31.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a31a"
+  },
+  "Appointment_ID": "5534639",
+  "Patient_ID": "P149",
+  "Doctor_ID": "1676134744-426",
+  "ScheduledDay": {
+    "$date": "2016-03-31T17:06:17.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a31b"
+  },
+  "Appointment_ID": "5637909",
+  "Patient_ID": "P15",
+  "Doctor_ID": "1676134727-422",
+  "ScheduledDay": {
+    "$date": "2016-04-29T07:30:31.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a31c"
+  },
+  "Appointment_ID": "5638164",
+  "Patient_ID": "P150",
+  "Doctor_ID": "1676137363-738",
+  "ScheduledDay": {
+    "$date": "2016-04-29T07:46:08.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a31d"
+  },
+  "Appointment_ID": "5638018",
+  "Patient_ID": "P151",
+  "Doctor_ID": "1676134759-430",
+  "ScheduledDay": {
+    "$date": "2016-04-29T07:37:45.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a31e"
+  },
+  "Appointment_ID": "5600005",
+  "Patient_ID": "P152",
+  "Doctor_ID": "1676137415-746",
+  "ScheduledDay": {
+    "$date": "2016-04-19T09:47:43.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a31f"
+  },
+  "Appointment_ID": "5638466",
+  "Patient_ID": "P153",
+  "Doctor_ID": "1676137417-747",
+  "ScheduledDay": {
+    "$date": "2016-04-29T08:03:51.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a320"
+  },
+  "Appointment_ID": "5638235",
+  "Patient_ID": "P154",
+  "Doctor_ID": "1676137400-743",
+  "ScheduledDay": {
+    "$date": "2016-04-29T07:50:15.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a321"
+  },
+  "Appointment_ID": "5638545",
+  "Patient_ID": "P155",
+  "Doctor_ID": "1676137357-736",
+  "ScheduledDay": {
+    "$date": "2016-04-29T08:08:43.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a322"
+  },
+  "Appointment_ID": "5628739",
+  "Patient_ID": "P156",
+  "Doctor_ID": "1676137428-749",
+  "ScheduledDay": {
+    "$date": "2016-04-27T11:32:14.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a323"
+  },
+  "Appointment_ID": "5626971",
+  "Patient_ID": "P157",
+  "Doctor_ID": "1676134733-424",
+  "ScheduledDay": {
+    "$date": "2016-04-27T08:53:09.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a324"
+  },
+  "Appointment_ID": "5614045",
+  "Patient_ID": "P158",
+  "Doctor_ID": "1676137381-741",
+  "ScheduledDay": {
+    "$date": "2016-04-25T10:01:13.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a325"
+  },
+  "Appointment_ID": "5628286",
+  "Patient_ID": "P159",
+  "Doctor_ID": "1676134801-437",
+  "ScheduledDay": {
+    "$date": "2016-04-27T10:46:12.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a326"
+  },
+  "Appointment_ID": "5616082",
+  "Patient_ID": "P16",
+  "Doctor_ID": "1676134793-435",
+  "ScheduledDay": {
+    "$date": "2016-04-25T13:28:21.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a327"
+  },
+  "Appointment_ID": "5628321",
+  "Patient_ID": "P160",
+  "Doctor_ID": "1676134772-433",
+  "ScheduledDay": {
+    "$date": "2016-04-27T10:48:50.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a328"
+  },
+  "Appointment_ID": "5638604",
+  "Patient_ID": "P161",
+  "Doctor_ID": "1676137334-729",
+  "ScheduledDay": {
+    "$date": "2016-04-29T08:12:27.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a329"
+  },
+  "Appointment_ID": "5639264",
+  "Patient_ID": "P162",
+  "Doctor_ID": "1676137407-744",
+  "ScheduledDay": {
+    "$date": "2016-04-29T08:53:02.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a32a"
+  },
+  "Appointment_ID": "5552915",
+  "Patient_ID": "P163",
+  "Doctor_ID": "1676137434-750",
+  "ScheduledDay": {
+    "$date": "2016-04-06T18:00:29.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a32b"
+  },
+  "Appointment_ID": "5552917",
+  "Patient_ID": "P164",
+  "Doctor_ID": "1676134751-428",
+  "ScheduledDay": {
+    "$date": "2016-04-06T18:00:51.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a32c"
+  },
+  "Appointment_ID": "5552914",
+  "Patient_ID": "P165",
+  "Doctor_ID": "1676137425-748",
+  "ScheduledDay": {
+    "$date": "2016-04-06T17:59:58.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a32d"
+  },
+  "Appointment_ID": "5552936",
+  "Patient_ID": "P166",
+  "Doctor_ID": "1676134721-420",
+  "ScheduledDay": {
+    "$date": "2016-04-06T18:12:55.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a32e"
+  },
+  "Appointment_ID": "5638014",
+  "Patient_ID": "P167",
+  "Doctor_ID": "1676134756-429",
+  "ScheduledDay": {
+    "$date": "2016-04-29T07:37:37.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a32f"
+  },
+  "Appointment_ID": "5552934",
+  "Patient_ID": "P168",
+  "Doctor_ID": "1676137447-754",
+  "ScheduledDay": {
+    "$date": "2016-04-06T18:12:38.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a330"
+  },
+  "Appointment_ID": "5597628",
+  "Patient_ID": "P169",
+  "Doctor_ID": "1676137456-756",
+  "ScheduledDay": {
+    "$date": "2016-04-18T17:29:12.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a331"
+  },
+  "Appointment_ID": "5597632",
+  "Patient_ID": "P17",
+  "Doctor_ID": "1676137428-749",
+  "ScheduledDay": {
+    "$date": "2016-04-18T17:32:53.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a332"
+  },
+  "Appointment_ID": "5597643",
+  "Patient_ID": "P170",
+  "Doctor_ID": "1676137425-748",
+  "ScheduledDay": {
+    "$date": "2016-04-18T17:40:18.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a333"
+  },
+  "Appointment_ID": "5642767",
+  "Patient_ID": "P171",
+  "Doctor_ID": "1676134748-427",
+  "ScheduledDay": {
+    "$date": "2016-04-29T17:06:27.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a334"
+  },
+  "Appointment_ID": "5597672",
+  "Patient_ID": "P172",
+  "Doctor_ID": "1676137367-739",
+  "ScheduledDay": {
+    "$date": "2016-04-18T17:52:49.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a335"
+  },
+  "Appointment_ID": "5597673",
+  "Patient_ID": "P173",
+  "Doctor_ID": "1676134730-423",
+  "ScheduledDay": {
+    "$date": "2016-04-18T17:53:25.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a336"
+  },
+  "Appointment_ID": "5597685",
+  "Patient_ID": "P174",
+  "Doctor_ID": "1676134772-433",
+  "ScheduledDay": {
+    "$date": "2016-04-18T18:03:12.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a337"
+  },
+  "Appointment_ID": "5597689",
+  "Patient_ID": "P175",
+  "Doctor_ID": "1676134741-425",
+  "ScheduledDay": {
+    "$date": "2016-04-18T18:06:35.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a338"
+  },
+  "Appointment_ID": "5638939",
+  "Patient_ID": "P176",
+  "Doctor_ID": "1676137351-734",
+  "ScheduledDay": {
+    "$date": "2016-04-29T08:36:19.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a339"
+  },
+  "Appointment_ID": "5637742",
+  "Patient_ID": "P177",
+  "Doctor_ID": "1676134766-431",
+  "ScheduledDay": {
+    "$date": "2016-04-29T07:20:46.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a33a"
+  },
+  "Appointment_ID": "5637915",
+  "Patient_ID": "P178",
+  "Doctor_ID": "1676137465-759",
+  "ScheduledDay": {
+    "$date": "2016-04-29T07:31:04.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a33b"
+  },
+  "Appointment_ID": "5623102",
+  "Patient_ID": "P179",
+  "Doctor_ID": "1676137370-740",
+  "ScheduledDay": {
+    "$date": "2016-04-26T13:34:14.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a33c"
+  },
+  "Appointment_ID": "5595347",
+  "Patient_ID": "P18",
+  "Doctor_ID": "1676137436-751",
+  "ScheduledDay": {
+    "$date": "2016-04-18T12:31:34.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a33d"
+  },
+  "Appointment_ID": "5595356",
+  "Patient_ID": "P180",
+  "Doctor_ID": "1676137459-757",
+  "ScheduledDay": {
+    "$date": "2016-04-18T12:32:25.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a33e"
+  },
+  "Appointment_ID": "5595358",
+  "Patient_ID": "P181",
+  "Doctor_ID": "1676137360-737",
+  "ScheduledDay": {
+    "$date": "2016-04-18T12:32:35.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a33f"
+  },
+  "Appointment_ID": "5640380",
+  "Patient_ID": "P182",
+  "Doctor_ID": "1676137412-745",
+  "ScheduledDay": {
+    "$date": "2016-04-29T10:37:02.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a340"
+  },
+  "Appointment_ID": "5595362",
+  "Patient_ID": "P183",
+  "Doctor_ID": "1676137381-741",
+  "ScheduledDay": {
+    "$date": "2016-04-18T12:33:05.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a341"
+  },
+  "Appointment_ID": "5598651",
+  "Patient_ID": "P184",
+  "Doctor_ID": "1676137363-738",
+  "ScheduledDay": {
+    "$date": "2016-04-19T07:51:31.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a342"
+  },
+  "Appointment_ID": "5638591",
+  "Patient_ID": "P185",
+  "Doctor_ID": "1676137444-753",
+  "ScheduledDay": {
+    "$date": "2016-04-29T08:11:38.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a343"
+  },
+  "Appointment_ID": "5639376",
+  "Patient_ID": "P186",
+  "Doctor_ID": "1676137452-755",
+  "ScheduledDay": {
+    "$date": "2016-04-29T09:01:10.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a344"
+  },
+  "Appointment_ID": "5640054",
+  "Patient_ID": "P187",
+  "Doctor_ID": "1676137462-758",
+  "ScheduledDay": {
+    "$date": "2016-04-29T10:03:12.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a345"
+  },
+  "Appointment_ID": "5640307",
+  "Patient_ID": "P188",
+  "Doctor_ID": "1676137370-740",
+  "ScheduledDay": {
+    "$date": "2016-04-29T10:28:54.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a346"
+  },
+  "Appointment_ID": "5623692",
+  "Patient_ID": "P189",
+  "Doctor_ID": "1676134748-427",
+  "ScheduledDay": {
+    "$date": "2016-04-26T14:28:39.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a347"
+  },
+  "Appointment_ID": "5565493",
+  "Patient_ID": "P19",
+  "Doctor_ID": "1676137441-752",
+  "ScheduledDay": {
+    "$date": "2016-04-11T09:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a348"
+  },
+  "Appointment_ID": "5571906",
+  "Patient_ID": "P190",
+  "ScheduledDay": {
+    "$date": "2016-04-12T09:44:42.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a349"
+  },
+  "Patient_ID": "P191",
+  "ScheduledDay": {
+    "$date": "2016-04-29T14:38:28.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6450c625856ca01201c4a34a"
+  },
+  "Patient_ID": "P192",
+  "ScheduledDay": {
+    "$date": "2016-04-12T15:47:45.000Z"
+  }
+},{
+  "_id": 3,
+  "Patient_ID": "P110",
+  "Doctor_ID": "1676137337-730",
+  "ScheduledDay": {
+    "$date": "2023-05-19T00:00:00.000Z"
+  }
+},{
+  "_id": 89,
+  "Patient_ID": "P110",
+  "Doctor_ID": "1676137334-729",
+  "ScheduledDay": {
+    "$date": "2023-05-19T00:00:00.000Z"
+  }
+},{
+  "_id": 60,
+  "Patient_ID": "P110",
+  "Doctor_ID": "1676137334-729",
+  "ScheduledDay": {
+    "$date": "2023-05-31T00:00:00.000Z"
+  }
+},{
+  "_id": 66,
+  "Patient_ID": "P110",
+  "Doctor_ID": "1676137334-729",
+  "ScheduledDay": {
+    "$date": "2023-06-02T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6452d78c185266ca36895a64"
+  },
+  "Patient_ID": "P101",
+  "Doctor_ID": "1676137337-730",
+  "ScheduledDay": {
+    "$date": "2023-05-18T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "645432430f800354ee98a936"
+  },
+  "Patient_ID": "P203",
+  "Doctor_ID": "1676137334-729",
+  "ScheduledDay": {
+    "$date": "2023-05-17T00:00:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "6454390974e615e33ccd05f5"
+  },
+  "Patient_ID": "P104",
+  "Doctor_ID": "1676137334-999",
+  "ScheduledDay": {
+    "$date": "2023-05-24T00:00:00.000Z"
+  }
+}]

@@ -1,0 +1,1139 @@
+[{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a27d"
+  },
+  "Patient_ID": "P102",
+  "Password": "P102",
+  "Age": 35,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a27e"
+  },
+  "Patient_ID": "P103",
+  "Password": "P103",
+  "Age": 52,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a27f"
+  },
+  "Patient_ID": "P104",
+  "Password": "P104",
+  "Age": 28,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a280"
+  },
+  "Patient_ID": "P105",
+  "Password": "P105",
+  "Age": 35,
+  "Gender": 2,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a281"
+  },
+  "Patient_ID": "P106",
+  "Password": "P106",
+  "Age": 46,
+  "Gender": 1,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a282"
+  },
+  "Patient_ID": "P107",
+  "Password": "P107",
+  "Age": 44,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a283"
+  },
+  "Patient_ID": "P108",
+  "Password": "P108",
+  "Age": 64,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a284"
+  },
+  "Patient_ID": "P109",
+  "Password": "P109",
+  "Age": 39,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a285"
+  },
+  "Patient_ID": "P11",
+  "Password": "P11",
+  "Age": 34,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a287"
+  },
+  "Patient_ID": "P111",
+  "Password": "P111",
+  "Age": 73,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a288"
+  },
+  "Patient_ID": "P112",
+  "Password": "P112",
+  "Age": 17,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a289"
+  },
+  "Patient_ID": "P113",
+  "Password": "P113",
+  "Age": 34,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a28a"
+  },
+  "Patient_ID": "P114",
+  "Password": "P114",
+  "Age": 36,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a28b"
+  },
+  "Patient_ID": "P115",
+  "Password": "P115",
+  "Age": 14,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a28c"
+  },
+  "Patient_ID": "P116",
+  "Password": "P116",
+  "Age": 24,
+  "Gender": 1,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a28d"
+  },
+  "Patient_ID": "P117",
+  "Password": "P117",
+  "Age": 53,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a28e"
+  },
+  "Patient_ID": "P118",
+  "Password": "P118",
+  "Age": 62,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a28f"
+  },
+  "Patient_ID": "P119",
+  "Password": "P119",
+  "Age": 29,
+  "Gender": 2,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a290"
+  },
+  "Patient_ID": "P12",
+  "Password": "P12",
+  "Age": 36,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a291"
+  },
+  "Patient_ID": "P120",
+  "Password": "P120",
+  "Age": 65,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a292"
+  },
+  "Patient_ID": "P121",
+  "Password": "P121",
+  "Age": 38,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a293"
+  },
+  "Patient_ID": "P122",
+  "Password": "P122",
+  "Age": 19,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a294"
+  },
+  "Patient_ID": "P123",
+  "Password": "P123",
+  "Age": 33,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a295"
+  },
+  "Patient_ID": "P124",
+  "Password": "P124",
+  "Age": 28,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a296"
+  },
+  "Patient_ID": "P125",
+  "Password": "P125",
+  "Age": 35,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a297"
+  },
+  "Patient_ID": "P126",
+  "Password": "P126",
+  "Age": 42,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a298"
+  },
+  "Patient_ID": "P127",
+  "Password": "P127",
+  "Age": 32,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a299"
+  },
+  "Patient_ID": "P128",
+  "Password": "P128",
+  "Age": 33,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a29a"
+  },
+  "Patient_ID": "P129",
+  "Password": "P129",
+  "Age": 25,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a29b"
+  },
+  "Patient_ID": "P13",
+  "Password": "P13",
+  "Age": 14,
+  "Gender": 1,
+  "diabetes": 1,
+  "copd": 1,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a29c"
+  },
+  "Patient_ID": "P130",
+  "Password": "P130",
+  "Age": 27,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a29d"
+  },
+  "Patient_ID": "P131",
+  "Password": "P131",
+  "Age": 28,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a29e"
+  },
+  "Patient_ID": "P132",
+  "Password": "P132",
+  "Age": 32,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a29f"
+  },
+  "Patient_ID": "P133",
+  "Password": "P133",
+  "Age": 45,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2a0"
+  },
+  "Patient_ID": "P134",
+  "Password": "P134",
+  "Age": 27,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2a1"
+  },
+  "Patient_ID": "P135",
+  "Password": "P135",
+  "Age": 26,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2a2"
+  },
+  "Patient_ID": "P136",
+  "Password": "P136",
+  "Age": 48,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2a3"
+  },
+  "Patient_ID": "P137",
+  "Password": "P137",
+  "Age": 17,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2a4"
+  },
+  "Patient_ID": "P138",
+  "Password": "P138",
+  "Age": 22,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2a5"
+  },
+  "Patient_ID": "P139",
+  "Password": "P139",
+  "Age": 42,
+  "Gender": 1,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2a6"
+  },
+  "Patient_ID": "P14",
+  "Password": "P14",
+  "Age": 24,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2a7"
+  },
+  "Patient_ID": "P140",
+  "Password": "P140",
+  "Age": 35,
+  "Gender": 1,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2a8"
+  },
+  "Patient_ID": "P141",
+  "Password": "P141",
+  "Age": 24,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2a9"
+  },
+  "Patient_ID": "P142",
+  "Password": "P142",
+  "Age": 38,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 1,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2aa"
+  },
+  "Patient_ID": "P143",
+  "Password": "P143",
+  "Age": 18,
+  "Gender": 2,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2ab"
+  },
+  "Patient_ID": "P144",
+  "Password": "P144",
+  "Age": 23,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2ac"
+  },
+  "Patient_ID": "P145",
+  "Password": "P145",
+  "Age": 24,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2ad"
+  },
+  "Patient_ID": "P146",
+  "Password": "P146",
+  "Age": 35,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2ae"
+  },
+  "Patient_ID": "P147",
+  "Password": "P147",
+  "Age": 38,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2af"
+  },
+  "Patient_ID": "P148",
+  "Password": "P148",
+  "Age": 47,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 1
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2b0"
+  },
+  "Patient_ID": "P149",
+  "Password": "P149",
+  "Age": 52,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2b1"
+  },
+  "Patient_ID": "P15",
+  "Password": "P15",
+  "Age": 53,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2b2"
+  },
+  "Patient_ID": "P150",
+  "Password": "P150",
+  "Age": 44,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2b3"
+  },
+  "Patient_ID": "P151",
+  "Password": "P151",
+  "Age": 38,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2b4"
+  },
+  "Patient_ID": "P152",
+  "Password": "P152",
+  "Age": 62,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2b5"
+  },
+  "Patient_ID": "P153",
+  "Password": "P153",
+  "Age": 61,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2b6"
+  },
+  "Patient_ID": "P154",
+  "Password": "P154",
+  "Age": 55,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2b7"
+  },
+  "Patient_ID": "P155",
+  "Password": "P155",
+  "Age": 45,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2b8"
+  },
+  "Patient_ID": "P156",
+  "Password": "P156",
+  "Age": 38,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2b9"
+  },
+  "Patient_ID": "P157",
+  "Password": "P157",
+  "Age": 44,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2ba"
+  },
+  "Patient_ID": "P158",
+  "Password": "P158",
+  "Age": 45,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2bb"
+  },
+  "Patient_ID": "P159",
+  "Password": "P159",
+  "Age": 33,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2bc"
+  },
+  "Patient_ID": "P16",
+  "Password": "P16",
+  "Age": 62,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2bd"
+  },
+  "Patient_ID": "P160",
+  "Password": "P160",
+  "Age": 32,
+  "Gender": 2,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2be"
+  },
+  "Patient_ID": "P161",
+  "Password": "P161",
+  "Age": 44,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2bf"
+  },
+  "Patient_ID": "P162",
+  "Password": "P162",
+  "Age": 62,
+  "Gender": 1,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2c0"
+  },
+  "Patient_ID": "P163",
+  "Password": "P163",
+  "Age": 38,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2c1"
+  },
+  "Patient_ID": "P164",
+  "Password": "P164",
+  "Age": 33,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 1,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2c2"
+  },
+  "Patient_ID": "P165",
+  "Password": "P165",
+  "Age": 22,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2c3"
+  },
+  "Patient_ID": "P166",
+  "Password": "P166",
+  "Age": 35,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2c4"
+  },
+  "Patient_ID": "P167",
+  "Password": "P167",
+  "Age": 23,
+  "Gender": 1,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2c5"
+  },
+  "Patient_ID": "P168",
+  "Password": "P168",
+  "Age": 48,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2c6"
+  },
+  "Patient_ID": "P169",
+  "Password": "P169",
+  "Age": 46,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2c7"
+  },
+  "Patient_ID": "P17",
+  "Password": "P17",
+  "Age": 29,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2c8"
+  },
+  "Patient_ID": "P170",
+  "Password": "P170",
+  "Age": 52,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2c9"
+  },
+  "Patient_ID": "P171",
+  "Password": "P171",
+  "Age": 52,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2ca"
+  },
+  "Patient_ID": "P172",
+  "Password": "P172",
+  "Age": 48,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2cb"
+  },
+  "Patient_ID": "P173",
+  "Password": "P173",
+  "Age": 36,
+  "Gender": 2,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2cc"
+  },
+  "Patient_ID": "P174",
+  "Password": "P174",
+  "Age": 31,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2cd"
+  },
+  "Patient_ID": "P175",
+  "Password": "P175",
+  "Age": 38,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2ce"
+  },
+  "Patient_ID": "P176",
+  "Password": "P176",
+  "Age": 35,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2cf"
+  },
+  "Patient_ID": "P177",
+  "Password": "P177",
+  "Age": 44,
+  "Gender": 1,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2d0"
+  },
+  "Patient_ID": "P178",
+  "Password": "P178",
+  "Age": 33,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2d1"
+  },
+  "Patient_ID": "P179",
+  "Password": "P179",
+  "Age": 45,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2d2"
+  },
+  "Patient_ID": "P18",
+  "Password": "P18",
+  "Age": 65,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2d3"
+  },
+  "Patient_ID": "P180",
+  "Password": "P180",
+  "Age": 53,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2d4"
+  },
+  "Patient_ID": "P181",
+  "Password": "P181",
+  "Age": 35,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2d5"
+  },
+  "Patient_ID": "P182",
+  "Password": "P182",
+  "Age": 46,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2d6"
+  },
+  "Patient_ID": "P183",
+  "Password": "P183",
+  "Age": 27,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2d7"
+  },
+  "Patient_ID": "P184",
+  "Password": "P184",
+  "Age": 26,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2d8"
+  },
+  "Patient_ID": "P185",
+  "Password": "P185",
+  "Age": 37,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2d9"
+  },
+  "Patient_ID": "P186",
+  "Password": "P186",
+  "Age": 28,
+  "Gender": 1,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2da"
+  },
+  "Patient_ID": "P187",
+  "Password": "P187",
+  "Age": 19,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2db"
+  },
+  "Patient_ID": "P188",
+  "Password": "P188",
+  "Age": 29,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2dc"
+  },
+  "Patient_ID": "P189",
+  "Password": "P189",
+  "Age": 39,
+  "Gender": 2,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2dd"
+  },
+  "Patient_ID": "P19",
+  "Password": "P19",
+  "Age": 38,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2de"
+  },
+  "Patient_ID": "P190",
+  "Password": "P190",
+  "Age": 49,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2df"
+  },
+  "Patient_ID": "P191",
+  "Password": "P191",
+  "Age": 37,
+  "Gender": 1
+},{
+  "_id": {
+    "$oid": "6450b2f1856ca01201c4a2e0"
+  },
+  "Patient_ID": "P192",
+  "Password": "P192",
+  "Age": 26,
+  "Gender": 2
+},{
+  "_id": {
+    "$oid": "6452f55fc8b6ca6f4ed31311"
+  },
+  "Patient_ID": "P120",
+  "Password": "P120",
+  "Age": 53,
+  "Gender": 2,
+  "diabetes": 1,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "645425390f800354ee98a926"
+  },
+  "Patient_ID": "P121",
+  "Password": "P121",
+  "Age": 24,
+  "Gender": 1,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+},{
+  "_id": {
+    "$oid": "645425b60f800354ee98a928"
+  },
+  "Patient_ID": "P122",
+  "Password": "P122",
+  "Age": 53,
+  "Gender": 2,
+  "diabetes": 1,
+  "copd": 1,
+  "asthma": 1
+},{
+  "_id": {
+    "$oid": "645425f60f800354ee98a92a"
+  },
+  "Patient_ID": "P201",
+  "Password": "P201",
+  "Age": 18,
+  "Gender": 2,
+  "diabetes": 1,
+  "copd": 1,
+  "asthma": 1
+},{
+  "_id": {
+    "$oid": "6454308d0f800354ee98a932"
+  },
+  "Patient_ID": "P203",
+  "Password": "P203",
+  "Age": 24,
+  "Gender": 2,
+  "diabetes": 2,
+  "copd": 2,
+  "asthma": 2
+}]

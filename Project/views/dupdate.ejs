@@ -1,0 +1,18 @@
+<%- include('layout/header5') %>
+
+<div class="card-body p-4">
+    <form action="/dupdate" method="POST">
+            <label for="Doctor ID">Doctor ID</label>
+            <input type="text" id="doctorid" name="doctorid" class="form-control form-control-lg" required/>
+            <label for="Specialization">Specialization</label>
+            <input type="text" id="specialization" name="specialization" class="form-control form-control-lg" required/> 
+            <label for="Phone_number">Phone Number</label>
+            <input type="text" id="phone" name="phone" class="form-control form-control-lg" required/> 
+            <label for="fees">Fees</label>
+            <input type="text" id="fees" name="fees" class="form-control form-control-lg" required/> 
+            <input type="submit" name="submit" value="Update Doctor" class="btn btn-primary btn-lg"/> 
+    </form>
+
+</div>
+
+<%- include('layout/footer2') %>

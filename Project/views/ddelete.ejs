@@ -1,0 +1,12 @@
+<%- include('layout/header5') %>
+
+<div class="card-body p-4">
+    <form action="/ddelete" method="POST">
+            <label for="Doctor ID">Doctor ID</label>
+            <input type="text" id="doctorid" name="doctorid" class="form-control form-control-lg" required/>
+            <input type="submit" name="submit" value="Delete Doctor" class="btn btn-primary btn-lg"/> 
+    </form>
+
+</div>
+
+<%- include('layout/footer2') %>
